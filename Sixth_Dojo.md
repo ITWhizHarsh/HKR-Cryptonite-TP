@@ -1,4 +1,5 @@
 # Sixth Dojo - Practicing Piping
+- `stdout`,`stderr`,`stdin`,etc.. are the **file descriptor**
 
 ## Redirection Operators
 - `>`: Redirects stdout to a file.
