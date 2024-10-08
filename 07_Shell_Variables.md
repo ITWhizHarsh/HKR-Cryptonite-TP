@@ -1,4 +1,4 @@
-#Seventh Dojo: Shell Variables
+# Seventh Dojo: Shell Variables
 ---
 
 - `$` : to get the output of any variable.
