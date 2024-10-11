@@ -24,3 +24,5 @@
 - **Command**:
     - `export PATH=/home/hacker/scripts:$PATH`
         - Adds `/home/hacker/scripts` to the existing PATH, retaining access to system commands like `cat`.
+    -	**Using Shebang (#!):**
+	    - The shebang line (#!/bin/bash) at the top of your script specifies the interpreter that should be used to run the script (in this case, bash).
